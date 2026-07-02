@@ -1,0 +1,7 @@
+# Python 3.13 (scikit-fmm has no wheel for 3.14 yet).
+# Install with:  pip install -r requirements.txt
+numpy==2.4.6
+matplotlib==3.10.9
+scipy==1.17.1
+scikit-image==0.26.0
+scikit-fmm==2025.6.23

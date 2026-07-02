@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# CLI / run outputs (root only, so assets/solved_example.png is still tracked)
+/solved_*.png
+executed*.ipynb
+
+# Local-only files (not part of the public project)
+CLAUDE.md
+.agents/
+skills-lock.json
+test_examples/
+my_maze.png
+maze_solver.ipynb
